@@ -1,0 +1,9 @@
+Round	1
+
+Open	R
+P1 RSP	R
+P2 bet	1
+Result	Win
+P1 Chip	2
+P2 Chip	0
+
